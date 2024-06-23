@@ -1,4 +1,4 @@
-Módulo 3 - Trilha HTML DIO.me
+#<h1>Módulo 3 - Trilha HTML DIO.me</h1>
 Título: Recriando Wikipedia, com um layout melhor :)
 
 Objetivo
